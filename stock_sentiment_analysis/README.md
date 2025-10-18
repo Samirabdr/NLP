@@ -1,4 +1,4 @@
-Problem Statement: Stock Sentiment Analysis using News Headlines
+Problem Statement:  Stock Sentiment Analysis using News Headlines
 
 The data set in consideration is a combination of the world news and stock price shifts available on Kaggle.
 
